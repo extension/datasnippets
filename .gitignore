@@ -1,0 +1,11 @@
+# Ignore bundler config
+/.bundle
+
+# environment files
+/.rvmrc
+/.powenv
+/.powrc
+/.tm_properties
+
+# Ignore all tempfiles.
+/tmp
